@@ -23,4 +23,4 @@ mod 'turbodog/hiera-sandbox',
   :git => "git://github.com/turbodog/hiera-sandbox"
 mod 'turbodog/envnotification',
   :git => "git://github.com/turbodog/envnotification"  
-mod 'puppetlabs/motd'
+mod 'puppetlabs/motd', :latest

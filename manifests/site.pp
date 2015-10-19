@@ -42,7 +42,7 @@ node default {
 }
 
 node /master/ {
-  include profile::production
+#  include profile::production
 }
 
 node /mon1/ {
