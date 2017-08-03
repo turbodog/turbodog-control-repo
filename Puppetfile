@@ -24,3 +24,4 @@ mod 'turbodog/hiera-sandbox',
 mod 'turbodog/envnotification',
   :git => "git://github.com/turbodog/envnotification"  
 mod 'puppetlabs/motd', :latest
+mod 'puppetlabs/corosync', :latest
